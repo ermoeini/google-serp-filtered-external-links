@@ -1,0 +1,6 @@
+aiohttp
+beautifulsoup4
+pandas
+streamlit
+fake-useragent
+requests-cache
